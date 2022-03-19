@@ -1,3 +1,3 @@
 {
-  "typescript.tsdk": "./node_modules/typescript/lib"
+  "typescript.tsdk": "/home/jam/Desktop/web/using-ts-with-react/section-3-TS-with-react/node_modules/typescript/lib"
 }
